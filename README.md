@@ -1,5 +1,5 @@
 # RayTracing
-simple ray tracing for NLOS - No need for Blender tools or Libraries 
+simple ray tracing FOV (0,0-2)
 
 Overview
 
